@@ -1,0 +1,51 @@
+html
+{
+    display:flex;
+    font-family: Times,serif;
+    font: 300;
+    font:caption;
+    font-display: 100;
+    background-color: rgb(2, 15, 5);
+    background-size:auto;
+    font-style:inherit;
+    font-size: 17px;
+    display: inline;
+    zoom:1;
+    width: 400px;
+    text-align: justify;    
+    padding: 40px;
+    margin: 50px; /* Marge extérieure de 50px */
+    
+}
+body
+{
+    color:aliceblue
+    
+}
+h1
+{
+    color: rgb(43, 229, 249);
+    font-size: 40px;
+}
+p1
+{
+    font-size: 20px;
+    color: #17e8ff;
+
+}
+table
+{
+border-collapse: collapse;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+border: 1px solid rgb(23, 242, 250);
+}
+p2
+{
+    font-style: italic;
+}
+h6
+{
+    color: aliceblue;
+}
